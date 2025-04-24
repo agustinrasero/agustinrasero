@@ -59,11 +59,9 @@
 
 
    
+<br>   
 
 
-
-
-<br>
 
 - **Back-End Development**:
   <br>
@@ -72,6 +70,13 @@
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
+<br>
+
+- **Database**:
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![DBeaver](https://img.shields.io/badge/DBeaver-%230072B1.svg?style=for-the-badge&logoColor=white)
 
 
 
@@ -94,7 +99,6 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
     ![Playwright](https://img.shields.io/badge/Playwright-%2316CC62.svg?style=for-the-badge&logo=playwright&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
     
